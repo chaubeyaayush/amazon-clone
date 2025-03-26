@@ -9,6 +9,4 @@ Features
 ✅ Header with navigation, logo, and search bar
 ✅ Footer with links to important sections
 ✅ Responsive design for mobile and desktop.
-=======
-# Project Title
->>>>>>> b582fb3 (Added README)
+
